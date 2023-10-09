@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+    color: brown;
+    font-size: 26px;
+    font-weight: 600;
+}
+.slider{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.slider img{
+    width: 500px;
+}
+button{
+    background-color: brown;
+    padding: 10px 20px;
+    border: None;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: aliceblue;
+}
